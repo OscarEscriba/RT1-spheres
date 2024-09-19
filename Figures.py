@@ -1,6 +1,6 @@
 import numpy as np
 from gl import WHITE
-import mathLibraries as ml
+import MathLib as ml
 
 class Material(object):
     def __init__(self, diffuse=WHITE):
